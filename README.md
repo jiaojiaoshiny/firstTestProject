@@ -1,0 +1,3 @@
+# firstTestProject
+基于Java语言的接口自动化
+同时也是一个用于练习使用gitHub的项目
